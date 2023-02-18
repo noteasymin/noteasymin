@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/JavaScript-333333?&style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>
 
 ## Where to find me
-<a href="https://jmdwlee.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?&style=flat-square&logo=Tistory&logoColor=#000000"/></a>
+<a href="https://jmdwlee.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-333333?&style=flat-square&logo=Tistory&logoColor=#000000"/></a>
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noteasymin&show_icons=true&theme=radical)
